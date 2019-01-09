@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: persionalblog
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.lhs.blog
+Build-Jdk: 1.6.0_13
+Built-By: Administrator
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/persionalblo
+ g/
+

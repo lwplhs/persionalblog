@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=src/main/resources/templates/thymeleaf/res/layui/lay/modules/laydate.js,src/main/resources/templates/thymeleaf/res/layui/lay/modules/jquery.js,target,src/main/resources/templates/thymeleaf/res/layui/lay/modules/mobile.js,src/main/resources/templates/thymeleaf/res/layui/layui.all.js,src/main/resources/templates/thymeleaf/res/layui/layui.js,src/main/resources/templates/thymeleaf/res/layui/lay/modules/layer.js
+validator.Unchecked=
